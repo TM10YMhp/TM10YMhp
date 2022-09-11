@@ -27,7 +27,7 @@
   &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="50" height="50" />
   <br>
   <br>
-React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git
 </div>
+React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git
 <h3 align="left">Connect with me:</h3>
 <p align="left">tm10ymhp@protonmail.com</p>
