@@ -35,7 +35,7 @@ Soy autodidacta, me gusta crear programas multiplataforma y escuchar ideas para 
 Manejo tecnologías como:<br>
 **React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git**
 ## Proyecto Destacable
-<img align="right" src="blob:https://vercel.com/17ba2009-3635-46be-bcac-b842b2462a6c" width="50%" height="50%" />
+<img align="right" src="https://raw.githubusercontent.com/TM10YMhp/TM10YMhp/master/Screenshot%202022-09-11%2018.50.12.png" width="50%" height="50%" />
 
 ### Musicfy
 Musicfy, es una app para escuchar musica en cualquier dispositivo.
