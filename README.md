@@ -29,6 +29,28 @@
   <br>
 </div>
 
-- 💬 Preguntame sobre:
+## Sobre mi
+Soy autodidacta, me gusta crear programas multiplataforma y escuchar ideas para luego llevarlas a codigo.
+
+Manejo tecnologías como:<br>
 **React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git**
-- 📫 Correo: **tm10ymhp@protonmail.com**
+## Proyecto Destacable
+<img align="right" src="blob:https://vercel.com/17ba2009-3635-46be-bcac-b842b2462a6c" width="50%" height="50%" />
+
+### Musicfy
+Musicfy, es una app para escuchar musica en cualquier dispositivo.
+Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
+En este gran proyecto me desempeñe tanto frontend como backend, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
+**Javascript | React | CSS | Redux | Node | Express | MongoDB | Mongoose | Git**
+
+<a href="https://app-musicfy.vercel.app/">
+  <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+  Deploy
+</a>
+<a href="https://github.com/PF-Musicfy/app-Musicfy">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+  Repositorio
+</a>
+
+## Correo
+**tm10ymhp@protonmail.com**
