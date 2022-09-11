@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Lenguajes y herramientas
+![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+<br>
+Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | Git | MongoDB | Mongoose | Styled Components
