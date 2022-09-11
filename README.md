@@ -28,6 +28,7 @@
   <br>
   <br>
 </div>
-React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git
-<h3 align="left">Connect with me:</h3>
-<p align="left">tm10ymhp@protonmail.com</p>
+
+- 💬 Preguntame sobre:
+**React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git**
+- 📫 Correo: **tm10ymhp@protonmail.com**
