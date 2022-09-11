@@ -1,21 +1,11 @@
-### Hi there 👋
-
-<!--
-**TM10YMhp/TM10YMhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Lenguajes y herramientas
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+<h1 align="center">Hola 👋, me llamo Alejandro Maturrano</h1>
+<h3 align="center">Full Stack Developer</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg" alt="lenguajes" />
 <br>
-Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | Git | MongoDB | Mongoose | Styled Components
+React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git
+</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+tm10ymhp@protonmail.com
+</p>
