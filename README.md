@@ -43,12 +43,10 @@ Nace como proyecto grupal integrador para poner en practica todas las habilidade
 En este gran proyecto me desempeñe tanto frontend como backend, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
 **Javascript | React | CSS | Redux | Node | Express | MongoDB | Mongoose | Git**
 
-<a href="https://app-musicfy.vercel.app/">
-  <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+&emsp;<a href="https://app-musicfy.vercel.app/">
   Deploy
 </a>
-<a href="https://github.com/PF-Musicfy/app-Musicfy">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+&emsp;<a href="https://github.com/PF-Musicfy/app-Musicfy">
   Repositorio
 </a>
 
