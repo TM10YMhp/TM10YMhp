@@ -35,15 +35,38 @@ Soy autodidacta, me gusta crear programas multiplataforma y escuchar ideas para 
 
 Manejo tecnologías como:<br>
 **React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git**
-## Proyecto Destacable
+## Proyectos
 <img align="right" src="https://raw.githubusercontent.com/TM10YMhp/TM10YMhp/master/Screenshot%202022-09-11%2018.50.12.png" width="50%" height="50%" />
 
 ### Musicfy
+<a href="https://github.com/Eduardoasm">
+  <img src="https://avatars.githubusercontent.com/u/101997708?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/ElamCano">
+  <img src="https://avatars.githubusercontent.com/u/103688479?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/gszcode">
+  <img src="https://avatars.githubusercontent.com/u/104654472?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/hugok2k">
+  <img src="https://avatars.githubusercontent.com/u/44946853?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/Ja-casn">
+  <img src="https://avatars.githubusercontent.com/u/54911067?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/Kosovomba">
+  <img src="https://avatars.githubusercontent.com/u/100467761?v=4" width="50" height="50" />
+</a>
+<a href="https://github.com/tm10ymhp">
+  <img src="https://avatars.githubusercontent.com/u/91300213?v=4" width="50" height="50" />
+</a>
+<br>
 Musicfy, es una app para escuchar musica en cualquier dispositivo.
 Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
 En este gran proyecto me desempeñe tanto frontend como backend, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
-**Javascript | React | CSS | Redux | Node | Express | MongoDB | Mongoose | Git**
 
+**Javascript | React | CSS | Redux | Node | Express | MongoDB | Mongoose | Git**
+<br>
 &emsp;<a href="https://app-musicfy.vercel.app/">
   Deploy
 </a>
