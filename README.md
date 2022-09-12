@@ -34,7 +34,7 @@
 Soy autodidacta, me gusta crear programas multiplataforma y escuchar ideas para luego llevarlas a codigo.
 
 Manejo tecnologías como:<br>
-**React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Styled Components | JavaScript | Git**
+**React | Redux | MongoDB | HTML | CSS | PostgreSQL | Sequelize | Mongoose | Node | Express | Styled Components | JavaScript | Git**
 ## Proyectos
 <img align="right" src="https://raw.githubusercontent.com/TM10YMhp/TM10YMhp/master/Screenshot%202022-09-11%2018.50.12.png" width="50%" height="50%" />
 
@@ -74,5 +74,5 @@ En este gran proyecto me desempeñe tanto frontend como backend, trabajamos medi
   Repositorio
 </a>
 
-## Correo
+## Contacto
 **tm10ymhp@protonmail.com**
